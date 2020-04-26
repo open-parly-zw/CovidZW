@@ -5,7 +5,7 @@
 
 ## CovidZw  API Files
  
-### **Base Url :**
+### **Base Url : https://crnzwhack.herokuapp.com**
 
 
 ### Covid  Last Update Date
